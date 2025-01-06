@@ -24,9 +24,6 @@ saúde animal nos dias atuais, a tecnologia da informação e da comunicação e
 vez mais presentes no cotidiano das pessoas
 
 
-Palavras-chave: saúde animal; desenvolvimento de software; telemedicina.
-
-
 Orientador: Marcos Brandao Rios
 
 
