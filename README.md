@@ -1,5 +1,6 @@
 # TCC-TelemedicinaVeterinaria
 Nome: Rafael da Silva Moreira
+
 Título: DESENVOLVIMENTO DE UMA PLATAFORMA WEB QUE POSSIBILITE MODALIDADES DA TELEMEDICINA VETERINÁRIA
 
 Resumo: Atualmente o teleatendimento já não é uma novidade, pessoas conseguem consultar
@@ -22,5 +23,7 @@ também contribui significativamente para a evolução dos padrões de atendimen
 saúde animal nos dias atuais, a tecnologia da informação e da comunicação estão cada
 vez mais presentes no cotidiano das pessoas
 Palavras-chave: saúde animal; desenvolvimento de software; telemedicina.
+
+
 Orientador: Marcos Brandao Rios
-Mês/Ano: Dez de 2024
+Mês/Ano: Dez/2024
