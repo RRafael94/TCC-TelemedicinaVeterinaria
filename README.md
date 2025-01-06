@@ -26,4 +26,6 @@ Palavras-chave: saúde animal; desenvolvimento de software; telemedicina.
 
 
 Orientador: Marcos Brandao Rios
+
+
 Mês/Ano: Dez/2024
